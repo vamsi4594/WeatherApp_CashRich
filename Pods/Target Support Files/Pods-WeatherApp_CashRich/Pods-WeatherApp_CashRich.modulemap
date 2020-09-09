@@ -1,0 +1,6 @@
+framework module Pods_WeatherApp_CashRich {
+  umbrella header "Pods-WeatherApp_CashRich-umbrella.h"
+
+  export *
+  module * { export * }
+}
